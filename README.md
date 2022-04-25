@@ -1,4 +1,4 @@
-# FourierHeat
+# Fourier's Law of Heat Transfer
 
 This program models the way in which heat diffuses in a thermally conductive material. Fourier's Law of Heat Transfer states that the amount of flux is proportinal to the gradient of the temperature concentration.
 

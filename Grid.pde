@@ -1,5 +1,5 @@
 class Grid {
-  // Variables
+  // Attributes
   float t;
   PVector v;
   float rho;
